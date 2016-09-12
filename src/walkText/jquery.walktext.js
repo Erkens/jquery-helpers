@@ -1,6 +1,6 @@
 /**
  * Simple jQuery plugin to walk through text-nodes
- * @link https://github.com/erkens/jquery-helpers/src/walkText
+ * @link https://github.com/Erkens/jquery-helpers
  * @license MIT License
  * @version 0.1
  */
